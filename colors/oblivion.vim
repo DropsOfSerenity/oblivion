@@ -53,7 +53,7 @@ hi Normal guifg=#d3d7cf guibg=#2e3436 guisp=#2e3436 gui=NONE ctermfg=151 ctermbg
 "hi Visual -- no settings --
 "hi MoreMsg -- no settings --
 "hi SpellCap -- no settings --
-"hi VertSplit -- no settings --
+hi VertSplit guifg=#2e3436 guibg=#2e3436
 "hi DiffChange -- no settings --
 "hi Cursor -- no settings --
 "hi SpellLocal -- no settings --
