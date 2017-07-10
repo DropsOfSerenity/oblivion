@@ -104,3 +104,29 @@ hi Repeat guifg=#ffffff guibg=NONE guisp=NONE gui=bold ctermfg=NONE ctermbg=NONE
 hi Structure guifg=#ffffff guibg=NONE guisp=NONE gui=bold ctermfg=15 ctermbg=NONE cterm=NONE
 hi Macro guifg=#ad7fa8 guibg=NONE guisp=NONE gui=NONE ctermfg=139 ctermbg=NONE cterm=NONE
 hi htmltagname guifg=#729fcf guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
+
+" Ruby Specific
+
+hi rubyMacro guifg=#ad7fa8
+
+hi rubySymbol guifg=#edd500 guibg=NONE guisp=NONE gui=NONE ctermfg=220 ctermbg=NONE cterm=NONE
+hi rubySymbolDelimiter guifg=#edd500 guibg=NONE guisp=NONE gui=NONE ctermfg=220 ctermbg=NONE cterm=NONE
+hi rubyDefine guifg=#ffffff guibg=NONE gui=bold
+hi rubyPseudoVariable guifg=#729fcf guibg=NONE gui=NONE
+hi rubyFunction guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyHelper guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyAccess guifg=#ffffff guibg=NONE gui=bold
+hi rubyInterpolation guifg=#edd500 guibg=NONE gui=NONE
+
+hi rubyAccess guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyAttribute guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyEntity guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyEntities guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyCallback guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyValidation guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyExceptionHandler guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyTestMacro guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyRakeMacro guifg=#d3d7cf guibg=NONE gui=NONE
+
+hi rubyRoute guifg=#d3d7cf guibg=NONE gui=NONE
+hi rubyBoolean guifg=#ce5c00 guibg=NONE gui=NONE
