@@ -71,6 +71,7 @@ hi VertSplit guifg=#2e3436 guibg=#2e3436
 "hi clear -- no settings --
 
 hi ColorColumn guibg=#34393A
+hi EndOfBuffer guibg=#34393A guifg=#34393A
 hi Typedef guifg=#ffffff guibg=NONE guisp=NONE gui=bold ctermfg=15 ctermbg=NONE cterm=NONE
 hi PreCondit guifg=#ad7fa8 guibg=NONE guisp=NONE gui=NONE ctermfg=139 ctermbg=NONE cterm=NONE
 hi Include guifg=#ad7fa8 guibg=NONE guisp=NONE gui=NONE ctermfg=139 ctermbg=NONE cterm=NONE
